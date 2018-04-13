@@ -1,2 +1,2 @@
 # vanillaJS
-Pure javascript 
+Pure javaScript files and examples 
